@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Wu Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wusunlab)
+![Wu Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wusunlab&count_private=true)
 
 ![Wu Sun's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wusunlab&exclude_repo=wusunlab.github.io&hide=idl&langs_count=7&layout=compact)
